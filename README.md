@@ -1,1 +1,3 @@
 # Redux-app-auth-spp
+
+This project will work on firebase with navigation by generating api keys and react router-dom........
